@@ -1,0 +1,146 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "Men's Casual Solid Lycra Shirt",
+            "categoryId": 2,
+            "description": "Latest Men’s Half Sleeves Shirt",
+            "price": "1000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.4,
+            "review": 150,
+            "vendor_name": "Malabar Textiles",
+            "warranty": 1
+          },
+          {
+            "id": 2,
+            "productName": "Mobile",
+            "categoryId": 5,
+            "description": "I Phone 14Pro Max",
+            "price": "150000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.9,
+            "review": 9652,
+            "vendor_name": "Apple Copration",
+            "warranty": 1
+          },
+          {
+            "id": 3,
+            "productName": "Laptop",
+            "categoryId": 7,
+            "description": "Asus TUF F17",
+            "price": "120000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.7,
+            "review": 672,
+            "vendor_name": "",
+            "warranty": 1
+          },
+          {
+            "id": 4,
+            "productName": "Men's Casual Solid Lycra Shirt",
+            "categoryId": 2,
+            "description": "Latest Men’s Half Sleeves Shirt",
+            "price": "1000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.4,
+            "review": 150,
+            "vendor_name": "Malabar Textiles",
+            "warranty": 1
+          },
+          {
+            "id": 5,
+            "productName": "Men's Casual Solid Lycra Shirt",
+            "categoryId": 2,
+            "description": "Latest Men’s Half Sleeves Shirt",
+            "price": "1000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.4,
+            "review": 150,
+            "vendor_name": "Malabar Textiles",
+            "warranty": 1
+          },
+          {
+            "id": 6,
+            "productName": "Men's Casual Solid Lycra Shirt",
+            "categoryId": 2,
+            "description": "Latest Men’s Half Sleeves Shirt",
+            "price": "1000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.4,
+            "review": 150,
+            "vendor_name": "Malabar Textiles",
+            "warranty": 1
+          },
+          {
+            "id": 7,
+            "productName": "Men's Casual Solid Lycra Shirt",
+            "categoryId": 2,
+            "description": "Latest Men’s Half Sleeves Shirt",
+            "price": "1000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.4,
+            "review": 150,
+            "vendor_name": "Malabar Textiles",
+            "warranty": 1
+          },
+          {
+            "id": 8,
+            "productName": "Men's Casual Solid Lycra Shirt",
+            "categoryId": 2,
+            "description": "Latest Men’s Half Sleeves Shirt",
+            "price": "1000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.4,
+            "review": 150,
+            "vendor_name": "Malabar Textiles",
+            "warranty": 1
+          },
+          {
+            "id": 9,
+            "productName": "Men's Casual Solid Lycra Shirt",
+            "categoryId": 2,
+            "description": "Latest Men’s Half Sleeves Shirt",
+            "price": "1000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.4,
+            "review": 150,
+            "vendor_name": "Malabar Textiles",
+            "warranty": 1
+          },
+          {
+            "id": 9,
+            "productName": "Men's Casual Solid Lycra Shirt",
+            "categoryId": 2,
+            "description": "Latest Men’s Half Sleeves Shirt",
+            "price": "1000",
+            "is_available": true,
+            "productImg": "https://i.postimg.cc/vHj6n8jy/shirt1.jpg",
+            "rating": 4.4,
+            "review": 150,
+            "vendor_name": "Malabar Textiles",
+            "warranty": 1
+          }
+
+ 
+
+
+
+
+
+
+
+
+
+
+    ]
+  }
